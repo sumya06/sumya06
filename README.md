@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umm e Sumya Imran</h1>
-<h3 align="center"><b><i>Software Engineer</i></b> | MERN-Stack Junior Developer | React, Node, MongoDB | Building Scalable Web Apps</h3>
+<h3 align="center"><b><i>Software Engineer</i></b> | MERN-Stack Developer | React, Node, MongoDB | Building Scalable Web Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumya06&label=Profile%20views&color=0e75b6&style=flat" alt="sumya06" /> </p>
 
